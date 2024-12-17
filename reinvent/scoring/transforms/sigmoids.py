@@ -1,3 +1,4 @@
+
 """Sigmoid functions
 
 FIXME: there is only a sign change for the two sigmoid functions
